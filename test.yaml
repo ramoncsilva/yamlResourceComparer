@@ -1,0 +1,20 @@
+key:
+  - string1:
+      lala:
+        key: test
+        para: lala.teste3
+  - string2
+  - string3
+  - string4
+  - string5
+  - string6
+data:
+  - test1:
+      para:
+        test4:
+          - tigrao:
+              lala:
+                key
+          - pooh:
+              lele:
+                key

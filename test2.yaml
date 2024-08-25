@@ -1,0 +1,10 @@
+key:
+  - string1:
+      lala:
+        key: test
+        para: lala.teste4
+  - string2
+  - string3
+  - string4
+  - string5
+  - string6
